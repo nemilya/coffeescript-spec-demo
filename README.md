@@ -156,7 +156,7 @@ coffeescript-spec demo
 
 Матчеры можно посмотреть здесь:
 
-* http://pivotal.github.com/jasmine/
+* https://jasmine.github.io/
 * https://github.com/pivotal/jasmine/wiki/Matchers
 
 В CoffeeScript, мы заменям формат JavaScript:
